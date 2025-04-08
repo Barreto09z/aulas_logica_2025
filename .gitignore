@@ -9,3 +9,8 @@ node_modules/
 
 # Arquivo expecífico com dados e senhas
 conexao.py
+
+# Alterando
+.gitignore
+
+exercícios/
