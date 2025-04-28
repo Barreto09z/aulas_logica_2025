@@ -11,4 +11,4 @@ function senha(qc) {
     console.log(`Senha: ${senhaGerada}`)
 }
 
-senha(8)
+senha(17)
